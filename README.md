@@ -1,2 +1,7 @@
-# demo-estudio-juridico-dra-perla-asociados
-Demo web para Estudio Juridico Dra Perla &amp; Asociados — diseñada por eterlab.
+# Estudio Juridico Dra Perla & Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
